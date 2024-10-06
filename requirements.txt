@@ -1,0 +1,10 @@
+bidict==0.23.1
+certifi==2024.07.4
+chardet==5.2.0
+idna==3.7
+python-engineio==3.14.2
+python-socketio==4.6.1
+requests==2.32.3
+six==1.16.0
+urllib3==2.2.2
+websocket-client==0.59.0
